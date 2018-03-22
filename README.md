@@ -1,8 +1,9 @@
 # React Native Redux Navigation Starter
 
-## A starter boilerplate code for a mobile app using React Native, Redux and React Navigation.
+## A starter boilerplate code for a mobile app using React Native, Redux and React Navigation. 
+## All the react-redux and react-navigation configurations are pre done, so the developer can simply download the repo, install dependencies and start his logics by creating screens and dispatch actions.
 
-## (supporting latest RN 0.54+)
+## (also supporting RN 0.54+)
 
 ## Requirements
 - [Node](https://nodejs.org) `6.x` or newer
@@ -15,7 +16,7 @@ See [Getting Started](https://facebook.github.io/react-native/docs/getting-start
 
 ## Stack / Libraries
 - [React Native](https://facebook.github.io/react-native/) `0.54.2` for building native apps using react
-- [Redux](http://rackt.github.io/redux/index.html) `5.0.7` a predictable state container for Javascript apps
+- [Redux](https://redux.js.org/) `5.0.7` a predictable state container for Javascript apps
 - [React Navigation](https://reactnavigation.org/) `1.5.8` a router based on new React Native Navigation API
 - [Babel](http://babeljs.io/) `6.x.x` for ES6+ support
 
